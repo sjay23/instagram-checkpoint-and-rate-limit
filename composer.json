@@ -1,4 +1,8 @@
 {
+  	"name": "stas_sh/instagram-sdk-php",
+  	"type": "library",
+  	"description": "This is an unofficial SDK for the Instagram Private API in PHP",
+  	"license": "MIT",
     "autoload": {
         "psr-4": {
             "Checkpoint\\": "src/"
